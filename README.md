@@ -1,4 +1,5 @@
 # Hotel-Booking-Cancellation-Prediction
+![](https://www.datascienceportfol.io/static/profile_pics/pr28_071DFE7F0D7971643FE8.jpg)
 This project builds a logistic regression model to predict whether a hotel booking will be canceled based on features like lead time, room type, price, and special requests. The model achieved 80% accuracy, with key predictors including lead time, number of special requests, and room type. The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation (confusion matrix, accuracy, sensitivity, and specificity), and actionable insights for improving hotel booking management.
 
 ## Data Preprocessing:
